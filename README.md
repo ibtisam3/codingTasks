@@ -65,6 +65,10 @@ Features
 ✅ Real-time balance updates with every transaction.
 ✅ Built with Vite for fast performance.
 
+## Screenshots
+Below is a screenshot of the React Interest Calculator in action:
+
+![Screenshot of React Interest Calculator](./screenshots/screenshot.png)
 
 ## Credits
 This project was created by [Ibtisam](https://github.com/ibtisam3).  
