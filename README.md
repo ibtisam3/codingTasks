@@ -30,9 +30,9 @@ This project is important for learning:
 Follow these steps to run the project locally:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/ibtisam3/codingTasks.git
-   
+```bash
+  git clone https://github.com/ibtisam3/codingTasks.git
+   ```
 
 2. **Navigate into the project folder:**
 
